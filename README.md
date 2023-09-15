@@ -8,7 +8,6 @@ In 2023, India witnessed a tomato crisis due to erratic weather patterns, includ
 ## Table of contents
 - [Features](#features)
 - [Future Scope](#future-scope)
-- [Business Model](#business-model) 
 <!-- - [Support and Contact](#support-and-contact) -->
 
 ## Features
